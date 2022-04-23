@@ -1,8 +1,8 @@
 {
-  "name": "Pinky",
+  "name": "rayen bot",
   "version": "7.3.6",
-  "description": "Pinky is the Modified Version of WhatsAsena.",
-  "main": "./Pinky_V2/bot.js",
+  "description": "rayen is the Modified Version of WhatsAsena.",
+  "main": "./rayen_V2/bot.js",
   "scripts": {
     "start": "supervisor -s bot.js"
   },
@@ -14,10 +14,10 @@
     "whatsapp",
     "bot",
     "ai",
-    "Pinky",
-    "Afnanplk"
-  ],
-  "author": "Afnanplk",
+    "rayen",
+
+  ]
+  "author": "rayen",
   "developer": "@afnanplk",
   "license": "GPL-3.0-or-later",
   "bugs": {
